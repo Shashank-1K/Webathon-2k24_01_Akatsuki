@@ -1,0 +1,17 @@
+.logo{
+    width: 50px;
+}
+@media screen and (max-width:776px){
+    .loginImg{
+        display: none;
+    }    
+}
+@media screen and (min-width:776px){
+    .loginImg{
+        height: 97vh;
+
+    }    
+}
+.loginBtn{
+    background-color: #6C63FF;
+}

@@ -1,0 +1,13 @@
+.box{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    width: 30vw;
+    height: 70vh;
+    border-radius: 5px;
+}
+.pos{
+    position: sticky;
+    float: right;
+    bottom: 0;
+    right: 0;
+}

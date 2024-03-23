@@ -1,0 +1,11 @@
+@media screen and (max-width:776px){
+    .registerImg{
+        display: none;
+    }    
+}
+@media screen and (min-width:776px){
+    .registerImg{
+        height: 97vh;
+        
+    }    
+}
